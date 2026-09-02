@@ -1,0 +1,44 @@
+items:
+  dragon_elytra:
+    material: ELYTRA
+    custom-model-data: 100
+    speed-threshold: 2.1
+    push-strength: 0.04
+    particle-count: 10
+  last_chance_chestplate:
+    material: NETHERITE_CHESTPLATE
+    custom-model-data: 850001
+    trigger-health: 6.0
+    regeneration-duration-seconds: 5
+    regeneration-amplifier: 3
+    cooldown-seconds: 180
+    heart-particles-per-tick: 12
+  runic_guardian_crown:
+    material: NETHERITE_HELMET
+    custom-model-data: 850001
+    projectile-damage-multiplier: 0.60
+    trigger-health: 6.0
+    shield-uses: 6
+    cooldown-seconds: 120
+  vigilant_stone_helmet:
+    material: DIAMOND_HELMET
+    custom-model-data: 250001
+    stillness-ticks-required: 30
+    particle-interval-ticks: 12
+  silent_bastion_chestplate:
+    material: DIAMOND_CHESTPLATE
+    custom-model-data: 250001
+    damage-multiplier: 0.93
+  deep_hunter_leggings:
+    material: DIAMOND_LEGGINGS
+    custom-model-data: 250001
+    swim-speed-multiplier: 1.30
+    swim-boost-strength: 0.024
+    max-swim-speed-blocks-per-second: 5.07
+    max-air-multiplier: 2.00
+  desert_wanderer_boots:
+    material: DIAMOND_BOOTS
+    custom-model-data: 250001
+    speed-amplifier: 0
+    speed-duration-ticks: 80
+    check-interval-ticks: 1

@@ -1,0 +1,6 @@
+name: FoxCustomItems
+version: ${version}
+main: pl.foxcustomitems.FoxCustomItemsPlugin
+api-version: '1.21'
+author: DeXter
+description: Custom item manager for Paper/Spigot 1.21.x.
